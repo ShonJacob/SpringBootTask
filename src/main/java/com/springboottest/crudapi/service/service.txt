@@ -1,0 +1,3 @@
+Ideally the service should contain the business logic and the database access logic.
+We should have interfaces and interface implementations
+In this example everything is done is controller as it is a simple CRUD operation.
